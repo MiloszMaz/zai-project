@@ -3,6 +3,14 @@ Aplikacja webowa w architekturze monolitycznej Django, wykorzystująca widoki ge
 
 Projekt (zarys projektu) robimy wspólnie. Oceną początkową podczas obrony jest ocena bardzo dobra, która może ulec obniżeniu w sytuacji, kiedy prezentowany przez Państwa projekt nie będzie w pełni działał lub nie będziecie Państwo w stanie odpowiedzieć na pytania prowadzącego zajęcia, związane z projektem.
 
+# Uruchomienie projektu
+
+```
+wsl
+source venv/bin/activate
+python manage.py runserver
+```
+
 # ZALICZENIE ĆWICZEŃ
 
 Projekt 1 – 30%
