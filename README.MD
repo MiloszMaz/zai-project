@@ -11,6 +11,12 @@ source venv/bin/activate
 python manage.py runserver
 ```
 
+# Dostęp
+http://127.0.0.1:8000/
+
+mipkowo
+mipkowo
+
 # ZALICZENIE ĆWICZEŃ
 
 Projekt 1 – 30%
